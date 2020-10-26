@@ -1,0 +1,157 @@
+/* Responsive */
+
+/* 575.98px */
+@media (max-width: 575.98px) {
+
+  /* Cookies */
+  .cookies .cookies-text {
+  	font-size: 11px;
+  	line-height: 21px;
+  }
+  .cookies .cookies-btn {
+  	font-size: 11px;
+  	line-height: 21px;
+  }
+
+  /* Buttons */
+  .btn {
+    font-size: 12px;
+  	line-height: 22px;
+  }
+
+	/* Navbar */
+  .navbar-c .navbar-mobile-toggle svg {
+    width: 24px;
+    height: 24px;
+    stroke: #888;
+    cursor: pointer;
+  }
+
+	/* Header */
+  .header {
+    background-color: var(--bg_color);
+  	background-image: none;
+  }
+  .header .header-content.v-m {
+    top: 25%;
+    transform: translateY(0%);
+  }
+  .header .header-content .header-subtitle {
+  	font-size: 13px;
+  	line-height: 23px;
+  }
+  .header .header-content .header-title {
+  	font-size: 34px;
+  	line-height: 50px;
+  }
+  .header .header-content .header-copyright {
+  	display: none;
+  }
+
+  /* Section */
+  .section.p-t {
+    padding-top: 50px;
+  }
+  .section.p-b {
+    padding-bottom: 50px;
+  }
+  .section .section-title {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .section .section-title div::before {
+  	height: 7px;
+  	top: 23px;
+  }
+  .section .section-box {
+    border-radius: 8px;
+  }
+
+  /* About */
+  .about::after {
+    display: none;
+  }
+  .about .about-image-wrapper {
+  	display: none;
+  }
+
+  /* Pricing */
+  .pricing .pricing-text {
+  	width: 100%;
+  }
+  .pricing .plan {
+    width: 100%;
+    min-width: 100%;
+  }
+  .pricing .plan .plan-price {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .pricing .plan .plan-price sup {
+  	font-size: 18px;
+  	line-height: 18px;
+  }
+  .pricing .plan .plan-title {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  /* Subscribe */
+  .subscribe .subscribe-box {
+  	width: 100%;
+    padding: 15px;
+  }
+  .subscribe .subscribe-box .subscribe-box-icon {
+  	width: 24px;
+  }
+  .subscribe .subscribe-box .subscribe-box-icon svg {
+    width: 16px;
+    height: 16px;
+  }
+  .subscribe .subscribe-box .subscribe-box-input {
+  	width: calc(100% - 120px);
+  }
+  .subscribe .subscribe-box .subscribe-box-input input {
+  	font-size: 12px;
+  	line-height: 22px;
+  	padding: 5px;
+  }
+  .btn.btn-subscribe {
+    padding: 6px 12px;
+  }
+
+  /* Footer */
+  .footer {
+    background-color: var(--bg_color);
+    background-image: none;
+  }
+  .footer .footer-box.m-a {
+    width: 100%;
+    margin: 0px;
+  }
+  .footer .footer-box .footer-box-title {
+  	font-size: 14px;
+  	line-height: 24px;
+  }
+  .footer .footer-box .footer-box-text, .footer .footer-box .footer-box-links a {
+  	font-size: 13px;
+  	line-height: 23px;
+  }
+  .footer-bar .footer-bar-text {
+  	font-size: 11px;
+  	line-height: 11px;
+  }
+  .footer-bar .footer-bar-text svg {
+  	width: 12px;
+  }
+  .footer .footer-box .footer-box-social a svg {
+  	width: 20px;
+  	height: 20px;
+  }
+
+  /* Forms */
+  .form.form-box {
+    margin-right: 0px;
+  }
+
+}
