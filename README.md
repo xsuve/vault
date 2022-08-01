@@ -1,4 +1,4 @@
-![Vault - Organize your Website Connection Details](https://xsuve.com/portfolio/vault/header.png)
+![Vault - Organize your Website Connection Details](screenshot.png)
 
 `2020 Series`
 # Vault - Organize your Website Connection Details
@@ -15,7 +15,7 @@ Vault was the first SaaS platform that featured payment gateway integration via 
 It used a super basic custom PHP framework that can be found here: https://github.com/panique/mini
 
 ### Years Active
-Was born in early 2020, but soon closed, because there it couldn't find any support for the targeted audience, since it was not the best execution regarding the idea.
+It was born in early 2020, but soon closed, because there it couldn't find any support for the targeted audience, since it was not the best execution regarding the idea.
 
 ---
 
